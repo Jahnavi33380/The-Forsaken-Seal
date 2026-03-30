@@ -21,8 +21,5 @@ Thumbs.db
 # Built game
 FinalBuiltGame/
 
-# Large video
-*.mp4
-
 # Rider / JetBrains
 .idea/

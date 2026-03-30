@@ -1,0 +1,2650 @@
+fileFormatVersion: 2
+guid: 72adab7749d6cab4d9bf05a7db09ae86
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_01' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'ball_l' has translation animation
+      that will be discarded.\n\t'ball_r' has translation animation that will be
+      discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_02' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'ball_l' has translation animation
+      that will be discarded.\n\t'ball_r' has translation animation that will be
+      discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_03' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'ball_l' has translation animation
+      that will be discarded.\n\t'ball_r' has translation animation that will be
+      discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_04' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'ball_l' has translation animation
+      that will be discarded.\n\t'ball_r' has translation animation that will be
+      discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_05' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'ball_l' has translation animation
+      that will be discarded.\n\t'ball_r' has translation animation that will be
+      discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_06' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'ball_l' has translation animation
+      that will be discarded.\n\t'ball_r' has translation animation that will be
+      discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_07' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'ball_r' has translation animation
+      that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_08_end'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_08_start'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_r'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl1_db_hb'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_r'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl1_df_hl'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl1_df_hr'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_r'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl2_db_hb'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl2_df_hl'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_r'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl2_df_hr'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_db_hb_end2'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_df_hf_end'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_r'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Bidle_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_r'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Bidle_02'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Bidle_03'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Bstd_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Ct_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Enter_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_r'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Enter_02'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_r'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Idle_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_JieZhan_B_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_JieZhan_F_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_PV02_Enter_End'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_TanDao_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Tudigong_Enter_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_r'
+      has translation animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_L_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_L_02'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_R_01'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n\nClip 'SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_R_02'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ball_l'
+      has translation animation that will be discarded.\n\t'ball_r' has translation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_01
+      internalID: 8146280673574053480
+      firstFrame: 0
+      lastFrame: 397
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_02
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_02
+      internalID: -6412895621134733726
+      firstFrame: 0
+      lastFrame: 441
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_03
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_03
+      internalID: 3965733527591839996
+      firstFrame: 0
+      lastFrame: 353
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_04
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_04
+      internalID: 2042007309516334028
+      firstFrame: 0
+      lastFrame: 201
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_05
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_05
+      internalID: 4194980840646200274
+      firstFrame: 0
+      lastFrame: 235
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_06
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_06
+      internalID: -6759544761136115064
+      firstFrame: 0
+      lastFrame: 163
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_07
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_07
+      internalID: -6958228421190725145
+      firstFrame: 0
+      lastFrame: 153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_08_end
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_08_end
+      internalID: -9090935280696022126
+      firstFrame: 0
+      lastFrame: 261
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_08_loop
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_08_loop
+      internalID: -8506655304708033933
+      firstFrame: 0
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_08_start
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Atk_08_start
+      internalID: 2150309149220732633
+      firstFrame: 0
+      lastFrame: 126
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl1_db_hb
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl1_db_hb
+      internalID: -679073987085724755
+      firstFrame: 0
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl1_df_hl
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl1_df_hl
+      internalID: 6522469244492088550
+      firstFrame: 0
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl1_df_hr
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl1_df_hr
+      internalID: 8038831134773121668
+      firstFrame: 0
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl2_db_hb
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl2_db_hb
+      internalID: -8706402436472921967
+      firstFrame: 0
+      lastFrame: 143
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl2_df_hl
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl2_df_hl
+      internalID: 1111617534343809798
+      firstFrame: 0
+      lastFrame: 109
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl2_df_hr
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl2_df_hr
+      internalID: -2221941240951729472
+      firstFrame: 0
+      lastFrame: 107
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_db_hb_end
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_db_hb_end
+      internalID: -2590635780147276629
+      firstFrame: 0
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_db_hb_end2
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_db_hb_end2
+      internalID: 6706591433741497357
+      firstFrame: 0
+      lastFrame: 188
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_db_hb_loop
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_db_hb_loop
+      internalID: -1688513651329818805
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_db_hb_start
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_db_hb_start
+      internalID: 1122841275608720681
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_df_hf_end
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_df_hf_end
+      internalID: -7917288610290874987
+      firstFrame: 0
+      lastFrame: 223
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_df_hf_loop
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_df_hf_loop
+      internalID: 2660173421062753657
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_df_hf_start
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_bh_dep01_sl5_df_hf_start
+      internalID: -7917128065935895267
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Bidle_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Bidle_01
+      internalID: -7115065046395499082
+      firstFrame: 0
+      lastFrame: 333
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Bidle_02
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Bidle_02
+      internalID: -6209738105807075136
+      firstFrame: 0
+      lastFrame: 191
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Bidle_03
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Bidle_03
+      internalID: 7054619464485244887
+      firstFrame: 0
+      lastFrame: 141
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Bstd_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Bstd_01
+      internalID: -2195326361534689496
+      firstFrame: 0
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Ct_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Ct_01
+      internalID: -8881894212962216004
+      firstFrame: 0
+      lastFrame: 197
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Die_Gen_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Die_Gen_01
+      internalID: -5883519813159557551
+      firstFrame: 0
+      lastFrame: 368
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Enter_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Enter_01
+      internalID: 5518095734725858780
+      firstFrame: 0
+      lastFrame: 203
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Enter_02
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Enter_02
+      internalID: -2644649684274316430
+      firstFrame: 0
+      lastFrame: 243
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Idle_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Idle_01
+      internalID: -7827260300400762766
+      firstFrame: 0
+      lastFrame: 977
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_JieZhan_B_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_JieZhan_B_01
+      internalID: 5899515153752760120
+      firstFrame: 0
+      lastFrame: 265
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_JieZhan_F_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_JieZhan_F_01
+      internalID: -7894112130491525395
+      firstFrame: 0
+      lastFrame: 217
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_PV02_Enter_End
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_PV02_Enter_End
+      internalID: -6410186341592807636
+      firstFrame: 0
+      lastFrame: 482
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_PV02_Enter_Start
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_PV02_Enter_Start
+      internalID: -2324649541151243978
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_TanDao_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_TanDao_01
+      internalID: -8696041509078450170
+      firstFrame: 0
+      lastFrame: 195
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Tudigong_Enter_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Tudigong_Enter_01
+      internalID: -5228383345907476707
+      firstFrame: 0
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_L_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_L_01
+      internalID: 7228531459330633804
+      firstFrame: 0
+      lastFrame: 73
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_L_02
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_L_02
+      internalID: 4100887748629975029
+      firstFrame: 0
+      lastFrame: 109
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_R_01
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_R_01
+      internalID: 1480005080602646858
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_R_02
+      takeName: SK_HYS_HuiJing|AS_HYS_HuiJing_Turn_R_02
+      internalID: -683904121065533663
+      firstFrame: 0
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Bip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh_l
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh_r
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: calf_l
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: calf_r
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot_l
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot_r
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine_01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine_02
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck_01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: clavicle_l
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: clavicle_r
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upperarm_l
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upperarm_r
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lowerarm_l
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lowerarm_r
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_l
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_r
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ball_l
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ball_r
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rope_01
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rope_06
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: daofu_03
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_01_l
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_02_l
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_03_l
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: index_01_l
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: index_02_l
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: index_03_l
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middle_01_l
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middle_02_l
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middle_03_l
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ring_01_l
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ring_02_l
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ring_03_l
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_01_l
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_02_l
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_03_l
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_01_r
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_02_r
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_03_r
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: index_01_r
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: index_02_r
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: index_03_r
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middle_01_r
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middle_02_r
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middle_03_r
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ring_01_r
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ring_02_r
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ring_03_r
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_01_r
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_02_r
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_03_r
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine_03
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: MobsEnemy(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SK_HYS_HuiJing
+      parentName: MobsEnemy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: root
+      parentName: SK_HYS_HuiJing
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -3.5527137e-15, z: 0.00000005960465, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: pelvis
+      parentName: root
+      position: {x: -0, y: 0, z: 1.3217901}
+      rotation: {x: 2.710506e-16, y: 0.0000000045474735, z: 0.000000010244555, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip
+      parentName: pelvis
+      position: {x: 0.0000000141727465, y: -2.2402137e-15, z: 0.40975034}
+      rotation: {x: -0.70710635, y: -0.00000039764404, z: 0.70710725, w: -0.00000024863238}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: spine_01
+      parentName: Bip
+      position: {x: -0.14278042, y: -0.00024568263, z: 0.00000018075109}
+      rotation: {x: -0.0000021457674, y: 0.0000027120116, z: 0.02141306, w: 0.9997707}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999997}
+    - name: spine_02
+      parentName: spine_01
+      position: {x: -0.3090188, y: -0.00019869655, z: -0.000027056336}
+      rotation: {x: -0.00000020357881, y: -0.00000027526474, z: 0.08639986, w: 0.9962605}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: spine_03
+      parentName: spine_02
+      position: {x: -0.2781806, y: -0.00019928932, z: -0.000039813516}
+      rotation: {x: -0.00000026131082, y: 0.0000018182625, z: 0.04808274, w: 0.9988434}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000001}
+    - name: clavicle_l
+      parentName: spine_03
+      position: {x: -0.28710568, y: -0.00000025749205, z: 0.10095672}
+      rotation: {x: -0.61588806, y: -0.099941425, z: 0.77898633, w: 0.06224072}
+      scale: {x: 1, y: 1.0000002, z: 1.0000021}
+    - name: upperarm_l
+      parentName: clavicle_l
+      position: {x: -0.21843871, y: 0.000000629425, z: -0.000000028610229}
+      rotation: {x: 0.28255337, y: 0.122564785, z: 0.07792534, w: 0.9481926}
+      scale: {x: 1.0000002, y: 0.9999996, z: 1.0000006}
+    - name: lowerarm_l
+      parentName: upperarm_l
+      position: {x: -0.59859705, y: 0.0000027656554, z: -0.0000003671646}
+      rotation: {x: -0.0053005214, y: 0.017123675, z: 0.025831189, w: 0.99950564}
+      scale: {x: 0.9999996, y: 1.0000006, z: 1.0000002}
+    - name: hand_l
+      parentName: lowerarm_l
+      position: {x: -0.5722576, y: 0.000002040863, z: 0.0000010824203}
+      rotation: {x: -0.6345245, y: 0.030993551, z: -0.13339502, w: 0.7606733}
+      scale: {x: 0.99999964, y: 1.0000004, z: 1}
+    - name: thumb_01_l
+      parentName: hand_l
+      position: {x: -0.059064075, y: 0.054273356, z: -0.04291608}
+      rotation: {x: 0.7449689, y: -0.19396007, z: 0.35139105, w: 0.53284633}
+      scale: {x: 0.99999917, y: 1.0000005, z: 1.0000004}
+    - name: thumb_02_l
+      parentName: thumb_01_l
+      position: {x: -0.050086096, y: 0.0000001335144, z: -0.0000000667572}
+      rotation: {x: -0.0000016689298, y: -0.0000007227062, z: -0.032429185, w: 0.99947405}
+      scale: {x: 1.0000002, y: 0.9999996, z: 0.9999999}
+    - name: thumb_03_l
+      parentName: thumb_02_l
+      position: {x: -0.05734104, y: 0.0000001335144, z: -0.00000029563904}
+      rotation: {x: -0.0000073718447, y: 0.000022491062, z: 0.7071027, w: 0.7071109}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: thumb_03_l_end
+      parentName: thumb_03_l
+      position: {x: -0, y: 0.010000022, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: index_01_l
+      parentName: hand_l
+      position: {x: -0.16927694, y: 0.0071607493, z: -0.05725146}
+      rotation: {x: 0.10473651, y: -0.050370917, z: 0.04932416, w: 0.9919981}
+      scale: {x: 1.000001, y: 0.99999994, z: 1.0000006}
+    - name: index_02_l
+      parentName: index_01_l
+      position: {x: -0.072595984, y: 0.00000018119812, z: 0.0000002479553}
+      rotation: {x: -0.0000005513428, y: -0.0000019036227, z: -0.027249826, w: 0.9996287}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1}
+    - name: index_03_l
+      parentName: index_02_l
+      position: {x: -0.071564436, y: 0.00000011920929, z: 0.00000025272368}
+      rotation: {x: 0.000006643612, y: -0.0000028349607, z: 0.70710427, w: 0.70710933}
+      scale: {x: 0.9999995, y: 1.0000005, z: 1}
+    - name: index_03_l_end
+      parentName: index_03_l
+      position: {x: -0, y: 0.010000021, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: middle_01_l
+      parentName: hand_l
+      position: {x: -0.1903772, y: 0.011419687, z: -0.016212873}
+      rotation: {x: -0.06991859, y: -0.027045375, z: 0.046228345, w: 0.9961139}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000004}
+    - name: middle_02_l
+      parentName: middle_01_l
+      position: {x: -0.07012076, y: -0.00000015258789, z: 0.0000002670288}
+      rotation: {x: -0.0000018402932, y: 0.00000018998978, z: -0.020085435, w: 0.99979824}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1.0000001}
+    - name: middle_03_l
+      parentName: middle_02_l
+      position: {x: -0.07012069, y: 0.00000012397766, z: 0.000000028610229}
+      rotation: {x: -0.000010555712, y: 0.000012464404, z: 0.70710826, w: 0.7071054}
+      scale: {x: 0.9999998, y: 1.0000005, z: 1.0000002}
+    - name: middle_03_l_end
+      parentName: middle_03_l
+      position: {x: -0, y: 0.010000032, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ring_01_l
+      parentName: hand_l
+      position: {x: -0.1945676, y: 0.01500534, z: 0.025961088}
+      rotation: {x: -0.14289355, y: 0.02545168, z: -0.08671266, w: 0.98560363}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1.0000002}
+    - name: ring_02_l
+      parentName: ring_01_l
+      position: {x: -0.060103457, y: -0.00000014305114, z: 0.00000014066696}
+      rotation: {x: -0.013762887, y: -0.00074679573, z: -0.017693875, w: 0.9997485}
+      scale: {x: 0.9999991, y: 1.0000011, z: 1.0000004}
+    - name: ring_03_l
+      parentName: ring_02_l
+      position: {x: -0.048237722, y: -0.000000085830685, z: 0.000000025629996}
+      rotation: {x: 0.0000004731117, y: -0.0000045395554, z: 0.7071069, w: 0.70710665}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999999}
+    - name: ring_03_l_end
+      parentName: ring_03_l
+      position: {x: -0, y: 0.010000041, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pinky_01_l
+      parentName: hand_l
+      position: {x: -0.16564901, y: 0.028475208, z: 0.061009124}
+      rotation: {x: -0.19597006, y: -0.004518178, z: -0.10069368, w: 0.9754159}
+      scale: {x: 0.9999997, y: 1.0000008, z: 1.0000004}
+    - name: pinky_02_l
+      parentName: pinky_01_l
+      position: {x: -0.050086286, y: 0.000000095367426, z: 0.000000019073486}
+      rotation: {x: -0.043613754, y: -0.0016936931, z: -0.015358304, w: 0.998929}
+      scale: {x: 0.9999995, y: 1.0000006, z: 1}
+    - name: pinky_03_l
+      parentName: pinky_02_l
+      position: {x: -0.041186027, y: -0.00000014543534, z: -0.00000015258789}
+      rotation: {x: -0.0000014938408, y: -0.0000033884996, z: 0.7071034, w: 0.70711017}
+      scale: {x: 1.0000002, y: 0.99999934, z: 0.99999994}
+    - name: pinky_03_l_end
+      parentName: pinky_03_l
+      position: {x: -0, y: 0.009999982, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hit_Hand_L_01
+      parentName: hand_l
+      position: {x: 0.00000013589859, y: 0, z: -0.000000057220458}
+      rotation: {x: 0.0000011026857, y: 0.0000001301523, z: 0.0000003424938, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: Hit_Hand_L_01_end
+      parentName: Hit_Hand_L_01
+      position: {x: -0, y: 0.0100000305, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bengdai_l_01
+      parentName: lowerarm_l
+      position: {x: -0.17230129, y: -0.09624753, z: 0.0797345}
+      rotation: {x: -0.5182116, y: 0.20239715, z: -0.2466698, w: -0.79350245}
+      scale: {x: 0.99999934, y: 1.0000008, z: 0.9999999}
+    - name: bengdai_l_02
+      parentName: bengdai_l_01
+      position: {x: -0.089493714, y: 0, z: -0.000000038146972}
+      rotation: {x: 0.000002235174, y: 0.00000065565104, z: -0.21956594, w: 0.9755977}
+      scale: {x: 1.0000006, y: 0.9999999, z: 1.0000007}
+    - name: bengdai_l_02_end
+      parentName: bengdai_l_02
+      position: {x: -0, y: 0.009999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bengdai_l_03
+      parentName: lowerarm_l
+      position: {x: -0.07880445, y: 0.067952104, z: 0.069713905}
+      rotation: {x: 0.5803349, y: -0.40314758, z: -0.21184939, w: 0.6751321}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999994}
+    - name: bengdai_l_04
+      parentName: bengdai_l_03
+      position: {x: -0.06843477, y: 0.000000019073486, z: -0.00000015258789}
+      rotation: {x: -0.0065880725, y: 0.05271221, z: 0.12385222, w: 0.99087775}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000006}
+    - name: bengdai_l_04_end
+      parentName: bengdai_l_04
+      position: {x: -0, y: 0.010000009, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lowerarm_l_twist01
+      parentName: lowerarm_l
+      position: {x: -0.00000034332274, y: 0.000000042915342, z: -0.0000001001358}
+      rotation: {x: 0.035540484, y: 0.0000043199716, z: -0.0000075409994, w: 0.99936825}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: lowerarm_l_twist02
+      parentName: lowerarm_l_twist01
+      position: {x: -0.28612855, y: 0.0000010108947, z: 0.0000003814697}
+      rotation: {x: 0.035535775, y: -0.0000021572557, z: 0.000002789131, w: 0.9993684}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: lowerarm_l_twist02_end
+      parentName: lowerarm_l_twist02
+      position: {x: -0, y: 0.010000018, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: clavicle_r
+      parentName: spine_03
+      position: {x: -0.28710556, y: 0.00000033855437, z: -0.10095668}
+      rotation: {x: 0.6158795, y: 0.09993703, z: 0.7789941, w: 0.0622364}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000019}
+    - name: upperarm_r
+      parentName: clavicle_r
+      position: {x: -0.21843877, y: -0.00000014305114, z: -0.000000010728836}
+      rotation: {x: -0.28255332, y: -0.12256706, z: 0.077921644, w: 0.9481926}
+      scale: {x: 0.9999999, y: 0.9999995, z: 1.0000004}
+    - name: lowerarm_r
+      parentName: upperarm_r
+      position: {x: -0.5985968, y: 0.00000074386594, z: 0.000000038146972}
+      rotation: {x: 0.0052943826, y: -0.017124929, z: 0.025831062, w: 0.9995057}
+      scale: {x: 1, y: 1.0000007, z: 1.0000007}
+    - name: hand_r
+      parentName: lowerarm_r
+      position: {x: -0.5722573, y: 0.00000011920929, z: -0.00000064849854}
+      rotation: {x: 0.6345277, y: -0.030992791, z: -0.1333946, w: 0.76067066}
+      scale: {x: 0.9999997, y: 1, z: 0.99999976}
+    - name: thumb_01_r
+      parentName: hand_r
+      position: {x: -0.059064016, y: 0.054273453, z: 0.042916145}
+      rotation: {x: -0.7449704, y: 0.19396113, z: 0.3513911, w: 0.53284395}
+      scale: {x: 0.9999992, y: 1.0000005, z: 1.0000001}
+    - name: thumb_02_r
+      parentName: thumb_01_r
+      position: {x: -0.050086334, y: 0.000000076293944, z: 0.000000028610229}
+      rotation: {x: -0.0000017881383, y: 0.0000011548393, z: -0.032425936, w: 0.9994741}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000002}
+    - name: thumb_03_r
+      parentName: thumb_02_r
+      position: {x: -0.057340868, y: 0.00000015258789, z: 0.000000057220458}
+      rotation: {x: -0.000015303263, y: 0.0000057425013, z: 0.7071117, w: 0.7071018}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000001}
+    - name: thumb_03_r_end
+      parentName: thumb_03_r
+      position: {x: -0, y: 0.010000022, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: index_01_r
+      parentName: hand_r
+      position: {x: -0.16927701, y: 0.0071607395, z: 0.05725187}
+      rotation: {x: -0.10473588, y: 0.05037342, z: 0.0493225, w: 0.99199814}
+      scale: {x: 1.0000006, y: 0.9999993, z: 1}
+    - name: index_02_r
+      parentName: index_01_r
+      position: {x: -0.072596, y: 0.000000019073486, z: -0.00000017166137}
+      rotation: {x: 0.0000018253916, y: -0.0000022239976, z: -0.02724813, w: 0.9996288}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000005}
+    - name: index_03_r
+      parentName: index_02_r
+      position: {x: -0.07156458, y: 0.0000000834465, z: -0.000000038146972}
+      rotation: {x: 0.0000066277535, y: -0.000035932175, z: 0.707091, w: 0.7071227}
+      scale: {x: 0.9999997, y: 1.0000001, z: 1.0000002}
+    - name: index_03_r_end
+      parentName: index_03_r
+      position: {x: -0, y: 0.010000021, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: middle_01_r
+      parentName: hand_r
+      position: {x: -0.1903774, y: 0.011419811, z: 0.016213417}
+      rotation: {x: 0.069918714, y: 0.027051857, z: 0.046228558, w: 0.9961138}
+      scale: {x: 1.0000007, y: 0.9999994, z: 1.0000001}
+    - name: middle_02_r
+      parentName: middle_01_r
+      position: {x: -0.07012084, y: -0.000000019073486, z: -0.00000014305114}
+      rotation: {x: 0.0000012516967, y: 0.0000007655467, z: 0.020080505, w: -0.9997984}
+      scale: {x: 0.9999992, y: 1.0000004, z: 1.0000002}
+    - name: middle_03_r
+      parentName: middle_02_r
+      position: {x: -0.070120685, y: 0.000000038146972, z: -0.000000019073486}
+      rotation: {x: 0.0000021080814, y: -0.000025206311, z: 0.70709467, w: 0.70711905}
+      scale: {x: 1.0000005, y: 0.99999964, z: 0.99999994}
+    - name: middle_03_r_end
+      parentName: middle_03_r
+      position: {x: -0, y: 0.010000032, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ring_01_r
+      parentName: hand_r
+      position: {x: -0.19456784, y: 0.015005245, z: -0.02596073}
+      rotation: {x: 0.14289118, y: -0.025450017, z: -0.086711325, w: 0.9856041}
+      scale: {x: 1.0000002, y: 0.9999996, z: 1.0000001}
+    - name: ring_02_r
+      parentName: ring_01_r
+      position: {x: -0.060103577, y: -0.000000023841856, z: -0.00000011920929}
+      rotation: {x: -0.013757514, y: -0.00074737717, z: 0.017691843, w: -0.9997486}
+      scale: {x: 0.9999996, y: 1.0000007, z: 0.99999994}
+    - name: ring_03_r
+      parentName: ring_02_r
+      position: {x: -0.04823785, y: 0.000000057220458, z: -0.00000007152557}
+      rotation: {x: 0.00000047031784, y: -0.000014088348, z: 0.7070999, w: 0.70711374}
+      scale: {x: 1.0000004, y: 0.9999997, z: 1}
+    - name: ring_03_r_end
+      parentName: ring_03_r
+      position: {x: -0, y: 0.010000041, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pinky_01_r
+      parentName: hand_r
+      position: {x: -0.16564947, y: 0.028475037, z: -0.061008833}
+      rotation: {x: -0.19596635, y: -0.004518195, z: 0.10070115, w: -0.9754159}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1}
+    - name: pinky_02_r
+      parentName: pinky_01_r
+      position: {x: -0.050086394, y: -0.000000047683713, z: 0.000000028610229}
+      rotation: {x: 0.04361289, y: 0.0016927655, z: -0.015351451, w: 0.99892914}
+      scale: {x: 0.9999999, y: 1.0000006, z: 1.0000006}
+    - name: pinky_03_r
+      parentName: pinky_02_r
+      position: {x: -0.04118628, y: -0.0000000500679, z: 0}
+      rotation: {x: 0.00000033527596, y: 0.000015774269, z: 0.70710355, w: 0.70711}
+      scale: {x: 1.0000004, y: 0.99999917, z: 0.99999946}
+    - name: pinky_03_r_end
+      parentName: pinky_03_r
+      position: {x: -0, y: 0.009999982, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: weapon_r
+      parentName: hand_r
+      position: {x: -0.15855634, y: 0.052256506, z: -0.049377687}
+      rotation: {x: -0.31793362, y: 0.6457719, z: -0.43594182, w: 0.540233}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.9999998}
+    - name: FX_Weapon_Trial01
+      parentName: weapon_r
+      position: {x: 0.000024023055, y: 0.00001973152, z: -1.9559879}
+      rotation: {x: -0.08910197, y: -0.0000011920929, z: -0.0000006556511, w: -0.9960226}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: FX_Weapon_Trial01_end
+      parentName: FX_Weapon_Trial01
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FX_Weapon_Trial02
+      parentName: weapon_r
+      position: {x: -0.0000002670288, y: 0.000017633438, z: -0.6296546}
+      rotation: {x: 0.015903275, y: -0.0000005364417, z: -0.00000016391273, w: 0.9998735}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: FX_Weapon_Trial02_end
+      parentName: FX_Weapon_Trial02
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FX_Weapon_Trial_m
+      parentName: weapon_r
+      position: {x: 0.0000014209747, y: -0.000007972717, z: -1.7484605}
+      rotation: {x: -0.08910197, y: -0.0000011920929, z: -0.0000006556511, w: -0.9960226}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: FX_Weapon_Trial_m_end
+      parentName: FX_Weapon_Trial_m
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FX_weapon_r
+      parentName: weapon_r
+      position: {x: -0.00000044822693, y: 0.0000056076046, z: -1.9500118}
+      rotation: {x: -0.08910197, y: -0.0000011920929, z: -0.0000006556511, w: -0.9960226}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: FX_weapon_r_end
+      parentName: FX_weapon_r
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lowerarm_twist_01_r
+      parentName: lowerarm_r
+      position: {x: -0.000000028610229, y: -0.000000014305114, z: -0.000000038146972}
+      rotation: {x: -0.035535548, y: -0.0000011208667, z: -0.0000003901812, w: 0.9993684}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: lowerarm_twist_02_r
+      parentName: lowerarm_twist_01_r
+      position: {x: -0.2861288, y: 0.00000015258789, z: -0.0000002670288}
+      rotation: {x: -0.03553538, y: -0.000005385305, z: 0.0000019925194, w: 0.9993685}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999976}
+    - name: lowerarm_twist_02_r_end
+      parentName: lowerarm_twist_02_r
+      position: {x: -0, y: 0.010000017, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bengdai_r_01
+      parentName: upperarm_r
+      position: {x: -0.51107633, y: 0.045322705, z: -0.06321489}
+      rotation: {x: -0.7546551, y: 0.101928726, z: -0.04775891, w: -0.646394}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000008}
+    - name: bengdai_r_02
+      parentName: bengdai_r_01
+      position: {x: -0.11869486, y: 0.0000024223327, z: -0.000000057220458}
+      rotation: {x: -0.000000029802322, y: 0.00000039488077, z: -0.1483703, w: 0.98893195}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000004}
+    - name: bengdai_r_02_end
+      parentName: bengdai_r_02
+      position: {x: -0, y: 0.009999976, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bengdai_r_03
+      parentName: upperarm_r
+      position: {x: -0.41928035, y: 0.08332451, z: 0.018566456}
+      rotation: {x: -0.6893607, y: -0.078475, z: 0.24429922, w: -0.6774522}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000002}
+    - name: bengdai_r_04
+      parentName: bengdai_r_03
+      position: {x: -0.071600236, y: -0.000000047683713, z: 0}
+      rotation: {x: -0.006357967, y: -0.10500581, z: 0.060112707, w: -0.99263275}
+      scale: {x: 0.9999997, y: 1.0000002, z: 1.0000002}
+    - name: bengdai_r_04_end
+      parentName: bengdai_r_04
+      position: {x: -0, y: 0.010000008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neck_01
+      parentName: spine_03
+      position: {x: -0.38336822, y: 0.03325591, z: 0.000020046235}
+      rotation: {x: -0.0000019920394, y: 0.00000012130057, z: 0.39796868, w: -0.91739905}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: head
+      parentName: neck_01
+      position: {x: -0.12529145, y: 0, z: -0.000000038146972}
+      rotation: {x: 0.00000014717797, y: -0.0000024743856, z: 0.009115667, w: 0.99995846}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: rope_01
+      parentName: head
+      position: {x: -0.19404094, y: 0.060040366, z: 0.13974223}
+      rotation: {x: 0.15973932, y: -0.68657714, z: -0.67234653, w: 0.22593237}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.99999976}
+    - name: rope_02
+      parentName: rope_01
+      position: {x: -0.12600394, y: 0.000000019073486, z: -0.0000001001358}
+      rotation: {x: -0.00076808396, y: 0.045483112, z: -0.016848696, w: -0.9988228}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: rope_03
+      parentName: rope_02
+      position: {x: -0.13145879, y: 0.000000009536743, z: 0.000000023841856}
+      rotation: {x: 0.012707752, y: 0.16035616, z: -0.07797024, w: 0.9838928}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: rope_03_end
+      parentName: rope_03
+      position: {x: -0, y: 0.009999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rope_04
+      parentName: head
+      position: {x: -0.15229878, y: -0.07265766, z: 0.1347712}
+      rotation: {x: -0.18652917, y: 0.6820603, z: 0.6898519, w: -0.15525791}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.99999964}
+    - name: rope_05
+      parentName: rope_04
+      position: {x: -0.10529438, y: -0.00000005185604, z: 0.0000000333786}
+      rotation: {x: 0.006654353, y: 0.14110078, z: -0.046635184, w: 0.98887384}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1.0000001}
+    - name: rope_05_end
+      parentName: rope_05
+      position: {x: -0, y: 0.010000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daofu_01
+      parentName: head
+      position: {x: -0.38738933, y: 0.025137316, z: -0.045601204}
+      rotation: {x: -0.5859327, y: 0.80740416, z: 0.040614184, w: 0.055964783}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999998}
+    - name: daofu_02
+      parentName: daofu_01
+      position: {x: -0.081205234, y: -0.000000047683713, z: 0.0000000166893}
+      rotation: {x: -0.0000012889506, y: -0.000005163253, z: 0.154298, w: 0.98802435}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: daofu_03
+      parentName: daofu_02
+      position: {x: -0.07445917, y: -0.00000016212464, z: -0.000000026226044}
+      rotation: {x: 0.0000010720155, y: -0.0000033044944, z: 0.22669369, w: 0.9739661}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999998}
+    - name: daofu_03_end
+      parentName: daofu_03
+      position: {x: -0, y: 0.009999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rope_06
+      parentName: head
+      position: {x: -0.26266345, y: 0.087619334, z: -0.12983856}
+      rotation: {x: 0.1849135, y: -0.65447354, z: -0.70232797, w: 0.21025425}
+      scale: {x: 1.0000004, y: 1.0000007, z: 0.9999998}
+    - name: rope_06_end
+      parentName: rope_06
+      position: {x: -0, y: 0.009999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daofu_04
+      parentName: head
+      position: {x: -0.24419698, y: 0.0084322365, z: -0.14572844}
+      rotation: {x: -0.46789542, y: 0.8822735, z: 0.024197869, w: 0.04562703}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.99999994}
+    - name: daofu_05
+      parentName: daofu_04
+      position: {x: -0.14055061, y: 0.000000047683713, z: 0.000000047683713}
+      rotation: {x: 0.0150751695, y: -0.06822484, z: 0.21520533, w: 0.97406614}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: daofu_06
+      parentName: daofu_05
+      position: {x: -0.10034477, y: 0.000000038146972, z: -0.0000000333786}
+      rotation: {x: -0.0000017359854, y: -0.000006347895, z: 0.08515305, w: 0.99636793}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.9999999}
+    - name: daofu_06_end
+      parentName: daofu_06
+      position: {x: -0, y: 0.009999992, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FX_head
+      parentName: head
+      position: {x: -0.5870637, y: -0.2152522, z: 0.00000082015987}
+      rotation: {x: -0.00000003632303, y: -0.00000022403674, z: -0.0000019092108, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: FX_head_end
+      parentName: FX_head
+      position: {x: -0, y: 0.009999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HPBar
+      parentName: head
+      position: {x: -0.5870637, y: -0.2152522, z: 0.00000082015987}
+      rotation: {x: -0.00000003632303, y: -0.00000022403674, z: -0.0000019092108, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: HPBar_end
+      parentName: HPBar
+      position: {x: -0, y: 0.009999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: guasheng_01
+      parentName: spine_03
+      position: {x: -0.09940434, y: 0.17151815, z: 0.18459575}
+      rotation: {x: 0.09634963, y: -0.72558963, z: -0.68106586, w: -0.019640915}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: guasheng_02
+      parentName: guasheng_01
+      position: {x: -0.09542137, y: -0.000000028610229, z: 0.000000085830685}
+      rotation: {x: 0.0063459855, y: -0.06507291, z: 0.096821606, w: 0.99315196}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: guasheng_02_end
+      parentName: guasheng_02
+      position: {x: -0, y: 0.009999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CAMERA_LOCK
+      parentName: spine_03
+      position: {x: -0.000000035762785, y: 0.000000059604645, z: 0.000000009536743}
+      rotation: {x: 0.000000037214274, y: -0.000000051107342, z: -0.000000067054756, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000005}
+    - name: CAMERA_LOCK_end
+      parentName: CAMERA_LOCK
+      position: {x: -0, y: 0.009999977, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FX_Beam
+      parentName: spine_03
+      position: {x: 0.10491199, y: 0.35183102, z: 0.000000667572}
+      rotation: {x: 0.000000040190343, y: 0.00000015960666, z: 0.000000089407486, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: FX_Beam_end
+      parentName: FX_Beam
+      position: {x: -0, y: 0.009999987, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hit_Body_1
+      parentName: spine_03
+      position: {x: -0.000000035762785, y: 0.000000059604645, z: 0.000000009536743}
+      rotation: {x: 0.000000037214274, y: -0.000000051107342, z: -0.000000067054756, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000005}
+    - name: Hit_Body_1_end
+      parentName: Hit_Body_1
+      position: {x: -0, y: 0.009999977, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh_l
+      parentName: Bip
+      position: {x: 0.0000001579523, y: 0.0000000333786, z: 0.16027638}
+      rotation: {x: -0.07134443, y: -0.9894369, z: -0.11653829, w: -0.048409406}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999976}
+    - name: calf_l
+      parentName: thigh_l
+      position: {x: -0.7074, y: -0.000000077486035, z: -0.0000000166893}
+      rotation: {x: -0.00000031106174, y: 0.00000070407987, z: 0.00038907677, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000001}
+    - name: foot_l
+      parentName: calf_l
+      position: {x: -0.8587655, y: -0.00000014781952, z: 0.0000000047683715}
+      rotation: {x: -0.06453073, y: 0.060553867, z: -0.061782774, w: 0.9941589}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: ball_l
+      parentName: foot_l
+      position: {x: -0.13831076, y: 0.25138995, z: 0.002955786}
+      rotation: {x: 0.00000055506814, y: -0.000000022351736, z: -0.7071088, w: 0.7071048}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: ball_l_end
+      parentName: ball_l
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh_r
+      parentName: Bip
+      position: {x: 0.00000014647841, y: 0.000000023841856, z: -0.16027643}
+      rotation: {x: -0.07134397, y: -0.98943675, z: 0.11654054, w: 0.04840848}
+      scale: {x: 0.9999997, y: 0.9999998, z: 0.99999964}
+    - name: calf_r
+      parentName: thigh_r
+      position: {x: -0.7074003, y: -0.000000047683713, z: 0.0000004673004}
+      rotation: {x: -0.0000004582107, y: 0.0000013038516, z: 0.00038536638, w: 0.99999994}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: foot_r
+      parentName: calf_r
+      position: {x: -0.85876507, y: -0.00000012636184, z: 0.00000021457672}
+      rotation: {x: 0.06453119, y: -0.06055229, z: -0.06178255, w: 0.99415904}
+      scale: {x: 1.0000004, y: 1.0000006, z: 0.9999999}
+    - name: ball_r
+      parentName: foot_r
+      position: {x: -0.13831079, y: 0.25139844, z: 0.0021321175}
+      rotation: {x: -0.0000004395842, y: -0.0000002980232, z: -0.70710546, w: 0.70710814}
+      scale: {x: 0.99999994, y: 1, z: 1.0000002}
+    - name: ball_r_end
+      parentName: ball_r
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: guasheng_hip_01
+      parentName: Bip
+      position: {x: 0.039767165, y: 0.24252579, z: 0.025401596}
+      rotation: {x: 0.0093036, y: 0.69855726, z: 0.7070442, w: -0.10963464}
+      scale: {x: 0.9999998, y: 1, z: 0.9999999}
+    - name: guasheng_hip_02
+      parentName: guasheng_hip_01
+      position: {x: -0.18636595, y: -0.0000000047683715, z: 0.000000035762785}
+      rotation: {x: 0.00000063306646, y: -0.000000026077029, z: 0.04874205, w: -0.99881136}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+    - name: guasheng_hip_03
+      parentName: guasheng_hip_02
+      position: {x: -0.14651708, y: -0.000000011920928, z: -0.000000005960464}
+      rotation: {x: -0.00000034313902, y: 0.0000001291883, z: -0.14448673, w: 0.9895068}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.9999999}
+    - name: guasheng_hip_03_end
+      parentName: guasheng_hip_03
+      position: {x: -0, y: 0.010000001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hulu
+      parentName: Bip
+      position: {x: -0.12200591, y: 0.23756583, z: 0.18012464}
+      rotation: {x: 0.18299292, y: -0.763026, z: -0.5738003, w: -0.23464483}
+      scale: {x: 0.99999946, y: 0.99999946, z: 0.9999996}
+    - name: hulusheng_01
+      parentName: hulu
+      position: {x: -0.0960435, y: -0.05597577, z: 0.024591397}
+      rotation: {x: -0.038526323, y: 0.034788538, z: 0.34674773, w: 0.936521}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: hulusheng_02
+      parentName: hulusheng_01
+      position: {x: -0.12529574, y: -0.00000004351139, z: -0.000000057220458}
+      rotation: {x: -0.00000060722226, y: 0.00000029057261, z: -0.2217978, w: 0.9750927}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: hulusheng_02_end
+      parentName: hulusheng_02
+      position: {x: -0, y: 0.009999997, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FX_FootSmoke01
+      parentName: root
+      position: {x: -3.0178773, y: 0.55976456, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: FX_FootSmoke01_end
+      parentName: FX_FootSmoke01
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FX_Atk02_FootSmoke01
+      parentName: root
+      position: {x: -1.086961, y: 0.9581401, z: 0}
+      rotation: {x: 0.000000029802322, y: -0.0000000037252885, z: 0.08716215, w: 0.9961941}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: FX_Atk02_FootSmoke01_end
+      parentName: FX_Atk02_FootSmoke01
+      position: {x: -0, y: 0.009999966, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FX_Atk06_FootSmoke02
+      parentName: root
+      position: {x: -1.6890817, y: -1.4883472, z: 0}
+      rotation: {x: 0.000000059604645, y: -1.2107129e-16, z: -0.2588349, w: 0.9659216}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: FX_Atk06_FootSmoke02_end
+      parentName: FX_Atk06_FootSmoke02
+      position: {x: -0, y: 0.010000042, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FX_Atk05_FootSmoke01
+      parentName: root
+      position: {x: -1.4394968, y: 1.8150936, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: FX_Atk05_FootSmoke01_end
+      parentName: FX_Atk05_FootSmoke01
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PD_F_1
+      parentName: root
+      position: {x: -1.7326245, y: 0.000027160644, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: PD_F_1_end
+      parentName: PD_F_1
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PD_F_2
+      parentName: root
+      position: {x: -2.547014, y: 0.000006713867, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: PD_F_2_end
+      parentName: PD_F_2
+      position: {x: -0, y: 0.009999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PD_F_3
+      parentName: root
+      position: {x: -5.924041, y: 0.0000042688844, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: PD_F_3_end
+      parentName: PD_F_3
+      position: {x: -0, y: 0.009999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PD_Bidle_01
+      parentName: root
+      position: {x: -1.78, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: PD_Bidle_01_end
+      parentName: PD_Bidle_01
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SK_HYS_HuiJing.001
+      parentName: MobsEnemy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

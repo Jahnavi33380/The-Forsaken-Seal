@@ -1,0 +1,28 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.unityproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Built game
+FinalBuiltGame/
+
+# Large video
+*.mp4
+
+# Rider / JetBrains
+.idea/
